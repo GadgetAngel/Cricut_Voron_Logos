@@ -3,7 +3,7 @@ This repository is to contain vector files I have created for the Voron communit
 
 ```
 I use Git for Windows with VScode to manage this repository.  I also use Git LFS extensions
-for the following file types: .pdf; .png; .jpg; .ai; and  .svg.
+for the following file types: .pdf; .png; .jpg; .ai; .psd; and  .svg.
 
 Install Git with LFS extensions: https://git-lfs.github.com/
 

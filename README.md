@@ -7,9 +7,9 @@ for the following file types: .pdf; .png; .jpg; .ai; .psd; and  .svg.
 
 Install Git with LFS extensions: https://git-lfs.github.com/
 
-To Download the whole repository do the following: select the "Clone or download button" and 
-click on "paste to clipboard" button so you can place the URL for the GitHub repository 
-to the clipboard. Now Open Git Bash.  Change the current working directory to the location 
+To Download the whole repository do the following: select the "Clone or download button" and
+click on "paste to clipboard" button so you can place the URL for the GitHub repository
+to the clipboard. Now Open Git Bash.  Change the current working directory to the location
 where you want the cloned directory.
 Type git clone, and then paste the URL you copied earlier.
 $ git clone https://github.com/GadgetAngel/Cricut_Voron_Logos.git
@@ -18,8 +18,8 @@ Now open Window explorer to the location of local clone.
 ```
 
 ## This repository can be downloaded as one large zip file from my Google drive at:
-## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+## https://drive.google.com/file/d/1HJnznqd9L5j-2-nyykNXV2_CJmfrB3Sp/view?usp=sharing
 
 # Puropse of this repository
 
-The purpose of this repository to share vector files that I have created for my Voron Builds.  
+The purpose of this repository to share vector files that I have created for my Voron Builds.

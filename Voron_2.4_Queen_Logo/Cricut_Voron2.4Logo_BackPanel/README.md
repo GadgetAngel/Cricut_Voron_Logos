@@ -1,4 +1,4 @@
-# Link to Cricut Design Space File that is shared for "everyone":
+# Link to Cricut Design Space File that is shared for "everyone": https://www.pinterest.com/joannmanges/cricut/
 
 ## https://design.cricut.com/landing/project-detail/610b6096866d6c0a845c528e
 

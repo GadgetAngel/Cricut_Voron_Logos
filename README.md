@@ -36,7 +36,13 @@ The purpose of this repository to share vector files that I have created for my 
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_VoronSW_Logo_RearPanel_1Layer_Height_12inxWidth_9.41in_Final.png?raw=true" />
 
+# For Voron Plain Logo
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron_Design_Plain_Logo.png?raw=true" />
+
+
 # For my own Voron 2.4 Build
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/QueenWithPlainVoronLogo.png?raw=true" />
 
+# All Cricut Design Space Files can be found https://www.pinterest.com/joannmanges/cricut/

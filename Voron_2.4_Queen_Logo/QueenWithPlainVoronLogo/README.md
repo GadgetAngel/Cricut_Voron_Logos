@@ -2,4 +2,4 @@
 
 ## https://design.cricut.com/landing/project-detail/610a6c103bdeb4148466568c
 
-<img src="https://raw.githubusercontent.com/GadgetAngel/Cricut_Voron_Logos/main/images/QueenWithPlainVoronLogo.png?raw=true" />
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/QueenWithPlainVoronLogo.png?raw=true" />

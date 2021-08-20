@@ -26,7 +26,7 @@ The purpose of this repository to share vector files that I have created for my 
 
 # For Voron 2.4 Build
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_Voron2.4Logo_BackPanel_1Layer.jpg?raw=true" />
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_Voron2.4Logo_Red_Path_1Layer_300ppi copy.jpg?raw=true" />
 
 # For Voron 0.1 Build
 

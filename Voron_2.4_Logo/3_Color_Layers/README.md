@@ -20,7 +20,7 @@ This folder contains the following sub-folders:
 
 The way I approached the project was to combine the Silhouette path, the Grey Path and what I call the Blue Path.  When these three paths are
 put together I call them the "Layout".  I created another vector path that is the negative space between the Voron Design Parts that make
-up the Voron Logo.  This "negative space" path is called the "Blue" Path.  It will allow you to cut each part out as a seperate item or 
+up the Voron Logo.  This "negative space" path is called the "Blue" Path.  It will allow you to cut each part out as a seperate items or 
 combined the seperate items onto one sheet as you see fit.  The Blue path should be cut from "REMOVABLE" Vinyl so that it can be removed after you place all
 the parts into their corresponding locations.
 

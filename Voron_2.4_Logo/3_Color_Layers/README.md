@@ -39,7 +39,7 @@ The layout for Red Path Parts:
 The layout for Gold Path Parts:
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Location_of_Gold_Assets_in_Gold_Path_Folder.JPG?raw=true" />
 
-Each you choose not to layout the Red parts and Gold parts yourself, I do have a .svg files to make your job easier:
+If you choose not to layout the Red parts and/or Gold parts yourself, I have supplied .svg files to make your job easier:
 1. For the Red Path Parts - I broke them up into 5 sepearte .svg files (68 parts in 5 files instead of 68 seperate .svg files)
 2. For the Gold Path Parts - I have 1 .svg file (22 parts in 1 file instead of 22 seperate .svg files)
 

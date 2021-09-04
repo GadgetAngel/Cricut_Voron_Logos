@@ -18,7 +18,7 @@ Now open Window explorer to the location of local clone.
 ```
 
 ## This repository can be downloaded as one large zip file from my Google drive at:
-## https://drive.google.com/file/d/1ZegesExdY-I3MXJNssy8h5mY-4GvXiSy/view?usp=sharing
+## xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Puropse of this repository
 

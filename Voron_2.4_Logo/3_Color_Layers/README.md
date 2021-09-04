@@ -1,4 +1,4 @@
-# Why and How I redesign this Project:
+# Why and How I redesigned this Project:
 
 After trying to use my Cricut Maker 3 to complete this project, I discovered that the Cricut Design Space Software can not
 handle this large of a project.  There are a huge amount of cuts in the vinyl.
@@ -6,12 +6,12 @@ handle this large of a project.  There are a huge amount of cuts in the vinyl.
 To solve the hudge delay that Cricut Design Space Software takes to process this project, I choose to split this project
 up into smaller or "sub-projects".
 
-### Understanding the origanization of this repository:
+### Understanding the organization of this repository:
 
 1. OLD files folder contains the project as one hudge project.
 2. Current Design Files folder contains the project as I have currently designed it.
 
-### Understanding the organization of the "Current Design Files: Folder:
+### Understanding the organization of the "Current Design Files": Folder:
 
 This folder contains the following sub folders:
 

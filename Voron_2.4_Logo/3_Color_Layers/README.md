@@ -3,8 +3,7 @@
 After trying to use my Cricut Maker 3 to complete this project, I discovered that the Cricut Design Space Software can not
 handle this large of a project.  There are a huge amount of cuts in the vinyl.
 
-To solve the hudge delay that Cricut Design Space Software takes to process this project, I choose to split this project
-up into smaller or "sub-projects".
+To solve the hudge delay that Cricut Design Space Software takes to process this project, I choose to split this project up into smaller or "sub-projects".
 
 ### Understanding the organization of this repository:
 
@@ -13,7 +12,7 @@ up into smaller or "sub-projects".
 
 ### Understanding the organization of the "Current Design Files": Folder:
 
-This folder contains the following sub folders:
+This folder contains the following sub-folders:
 
 1.  Gold Path
 2.  Layout
@@ -21,8 +20,8 @@ This folder contains the following sub folders:
 
 The way I approached the project was to combine the Silhouette path, the Grey Path and what I call the Blue Path.  When these three paths are
 put together I call them the "Layout".  I created another vector path that is the negative space between the Voron Design Parts that make
-up the Voron Logo.  This "negative space" path is called the "Blue" Path.  I will allow you to cut each part out as a seperate item
-combined on one sheet as you see fit.  The Blue path should be cut from "REMOVABLE" Vinyl so that it can be removed after you place all
+up the Voron Logo.  This "negative space" path is called the "Blue" Path.  It will allow you to cut each part out as a seperate item or 
+combined the seperate items onto one sheet as you see fit.  The Blue path should be cut from "REMOVABLE" Vinyl so that it can be removed after you place all
 the parts into their corresponding locations.
 
 So first cut the Layout first ("Combined_Layout_Cricut_Voron2.4Logo_BackPanel_3Layers_900ppi [Converted].svg").  Then use seperate projects for the Gold Path parts and Red Path parts.

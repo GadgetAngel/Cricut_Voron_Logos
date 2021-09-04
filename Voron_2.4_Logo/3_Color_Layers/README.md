@@ -24,7 +24,7 @@ up the Voron Logo.  This "negative space" path is called the "Blue" Path.  It wi
 combined the seperate items onto one sheet as you see fit.  The Blue path should be cut from "REMOVABLE" Vinyl so that it can be removed after you place all
 the parts into their corresponding locations.
 
-So first cut the Layout first ("Combined_Layout_Cricut_Voron2.4Logo_BackPanel_3Layers_900ppi [Converted].svg").  Then use seperate projects for the Gold Path parts and Red Path parts.
+So cut the Layout first ("Combined_Layout_Cricut_Voron2.4Logo_BackPanel_3Layers_900ppi [Converted].svg").  Then use seperate projects for the Gold Path parts and Red Path parts.
 
 I supply a .jpg files for both Gold Path Parts and the Red Path Parts that show you where each part location belongs.  Within the Gold Path folder
 you will find a folder called an "SVG" folder.  This "SVG" folder contains each individual file in a unique .svg file so that you can arrange

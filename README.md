@@ -26,23 +26,37 @@ The purpose of this repository to share vector files that I have created for my 
 
 # For Voron 2.4 Build
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_Voron2.4Logo_Red_Path_1Layer_300ppi copy.jpg?raw=true" />
+# Link to Cricut Design Space for Voron 2.4 1_Color_Layer:
+## https://design.cricut.com/landing/project-detail/6137795f68f6f90001d7abfd
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron2.4_1Color.jpg?raw=true" />
 
 # For Voron 0.1 Build
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_Voron0.1or0.0_Logo_DeckPanel_1Layer_Height_5.6inxWidth_7.4in.png?raw=true" />
+# Link Cricut Design Space for Voron 0.1 1_Color_Layer:
+## https://design.cricut.com/landing/project-detail/613569712ecf490001974996
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Combined_Red_Path_300ppi.png?raw=true" />
 
 # For Voron Switch Wire Build
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_VoronSW_Logo_RearPanel_1Layer_Height_12inxWidth_9.41in_Final.png?raw=true" />
+# Link Cricut Design Space for Voron Switch Wire 1_Color_Layer:
+## https://design.cricut.com/landing/project-detail/613bf24c5dddf60001c14fbb
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_VoronSW_Logo_RearPanel_1Layer.jpg?raw=true" />
 
 # For Voron Plain Logo
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron_Design_Plain_Logo.png?raw=true" />
+# Link Cricut Design Space for Voron Plain Logo 1_Color_Layer:
+## https://design.cricut.com/landing/project-detail/6137b8cce6ad93000134232e
 
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron_Design_Plain_Logo.jpg?raw=true" />
 
 # For my own Voron 2.4 Build
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/QueenWithPlainVoronLogo.png?raw=true" />
+# Link Cricut Design Space for QueenWithPlainVoronLogo2
+## https://design.cricut.com/landing/project-detail/6137e15bd254460001dad096
 
-# All Cricut Design Space Files can be found https://www.pinterest.com/joannmanges/cricut/
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/QueenWithPlainVoronLogo2.png?raw=true" />
+
+# All Cricut Design Space Files can be found at https://www.pinterest.com/joannmanges/voron_logo_simplified/

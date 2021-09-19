@@ -1,5 +1,5 @@
 # Cricut_Voron_Logos
-This repository is to contain vector files I have created for the Voron community and for my own Voron builds.
+This repository contains vector files I have created for the Voron community and for my own Voron builds.
 
 ```
 I use Git for Windows with VScode to manage this repository.  I also use Git LFS extensions
@@ -24,37 +24,65 @@ Now open Window explorer to the location of local clone.
 
 The purpose of this repository to share vector files that I have created for my Voron Builds.
 
+---
+
 # For Voron 2.4 Build
 
-# Link to Cricut Design Space for Voron 2.4 1_Color_Layer:
+# Link for "Voron 2.4 1_Color_Layer":
 ## https://design.cricut.com/landing/project-detail/6137795f68f6f90001d7abfd
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron2.4_1Color.jpg?raw=true" />
 
+
+# Link for "Voron 2.4 1Color_WithOut_Logo_Outline_With_Silhouette":
+## https://design.cricut.com/landing/project-detail/614501c2623cde00018a4fe6
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron2.4_1Color_WithOut_Logo_Outline_With_Silhouette.jpg?raw=true" />
+
+
+# Link for "Voron 2.4 1Color_WithOut_Logo_Outline_WithOut_Silhouette":
+## https://design.cricut.com/landing/project-detail/614502f434e2330001c7de37
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron2.4_1Color_WithOut_Logo_Outline_WithOut_Silhouette.jpg?raw=true" />
+
+
+# Link for "Voron 2.4 3_Color_Layers":
+## https://design.cricut.com/landing/project-detail/6137b53b0b4942000143ea8c
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron2.4_3Color.jpg?raw=true" />
+
+---
+
 # For Voron 0.1 Build
 
-# Link Cricut Design Space for Voron 0.1 1_Color_Layer:
+# Link Cricut Design Space for "Voron 0.1 1_Color_Layer":
 ## https://design.cricut.com/landing/project-detail/613569712ecf490001974996
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Combined_Red_Path_300ppi.png?raw=true" />
 
+---
+
 # For Voron Switch Wire Build
 
-# Link Cricut Design Space for Voron Switch Wire 1_Color_Layer:
+# Link Cricut Design Space for "Voron Switch Wire 1_Color_Layer":
 ## https://design.cricut.com/landing/project-detail/613bf24c5dddf60001c14fbb
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Cricut_VoronSW_Logo_RearPanel_1Layer.jpg?raw=true" />
 
+---
+
 # For Voron Plain Logo
 
-# Link Cricut Design Space for Voron Plain Logo 1_Color_Layer:
+# Link Cricut Design Space for "Voron Plain Logo 1_Color_Layer":
 ## https://design.cricut.com/landing/project-detail/6137b8cce6ad93000134232e
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron_Design_Plain_Logo.jpg?raw=true" />
 
+---
+
 # For my own Voron 2.4 Build
 
-# Link Cricut Design Space for QueenWithPlainVoronLogo2
+# Link Cricut Design Space for "Voron 2.4 QueenWithPlainVoronLogo2":
 ## https://design.cricut.com/landing/project-detail/6137e15bd254460001dad096
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/QueenWithPlainVoronLogo2.png?raw=true" />

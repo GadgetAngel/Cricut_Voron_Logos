@@ -17,10 +17,10 @@ Press Enter to create your local clone.
 Now open Window explorer to the location of local clone.
 ```
 
-## This repository can be downloaded as one large zip file from my Google drive at:
+## This repository can be downloaded as one large zip file from my Google Drive at:
 ## https://drive.google.com/file/d/1ObBLdtOh4RpC3xd324nshPm5AjYbZw27/view?usp=sharing
 
-# Puropse of this repository
+# Purpose of this repository
 
 The purpose of this repository to share vector files that I have created for my Voron Builds.
 
@@ -117,3 +117,9 @@ The purpose of this repository to share vector files that I have created for my 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/QueenWithPlainVoronLogo2.png?raw=true" />
 
 # All Cricut Design Space Files can be found at https://www.pinterest.com/joannmanges/voron_logo_simplified/
+
+---
+
+# For my own Voron-Trident Build
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron-Trident_DesignLogo_WithOUTHexOutline2jpg.jpg?raw=true" />

@@ -120,6 +120,6 @@ The purpose of this repository to share vector files that I have created for my 
 
 ---
 
-# For my own Voron-Trident Build
+# For a Voron-Trident Build
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron-Trident_DesignLogo_WithOUTHexOutline2jpg.jpg?raw=true" />

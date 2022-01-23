@@ -23,6 +23,6 @@
 
 ---
 
-# Directory "Voron-Trident_Rear_Deck_250_300_350_correct_dimensions" contains the .ai and .dxf files for the Voron-Trident Panels (200mm, 300mm, 350mm):
+# Directory "Voron-Trident_Rear_Deck_250_300_350_correct_dimensions" contains the .ai and .dxf files for the Voron-Trident Panels (200 mm³, 300 mm³, 350 mm³):
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/250_rear.jpg?raw=true" />

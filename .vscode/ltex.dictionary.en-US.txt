@@ -3,3 +3,5 @@ Cricut
 WithOut
 Voron-Trident
 stl
+dxf
+Voron-Trident

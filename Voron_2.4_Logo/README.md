@@ -27,3 +27,10 @@
 ## https://design.cricut.com/landing/project-detail/6137b53b0b4942000143ea8c
 
 <img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron2.4_3Color.jpg?raw=true" />
+
+---
+
+# Directory "CAD" contains the .STEP and .f3d files for the printable Voron 2.4 Parts Design Logo:
+
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron-2.4_DesignLogo_CAD.stl.png?raw=true" />
+

@@ -13,13 +13,13 @@
 
 # Directory ".stl files" contains the .stl files for the Voron-Trident Parts Design Logo that you can print:
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron-Trident_DesignLogo_Trident_350_deck_Panel.stl.png?raw=true" />
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron-Trident_DesignLogo_Trident_250_Rear_Panel.stl.png?raw=true" />
 
 ---
 
 # Directory "CAD" contains the .STEP and .f3d files for the printable Voron-Trident Parts Design Logo:
 
-<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron-Trident_DesignLogo_Trident_250_Rear_Panel.stl.png?raw=true" />
+<img src="https://github.com/GadgetAngel/Cricut_Voron_Logos/blob/main/images/Voron-Trident_DesignLogo_CAD.stl.png?raw=true" />
 
 ---
 
